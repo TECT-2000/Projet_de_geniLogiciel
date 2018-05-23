@@ -1,4 +1,4 @@
-package com.example.miketsebo.projetgenielogiciel.Utils;
+package com.example.miketsebo.projetgenielogiciel.view;
 
 import android.content.Context;
 import android.support.v7.widget.RecyclerView;
